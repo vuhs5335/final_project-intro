@@ -1,0 +1,3 @@
+Business Problem
+
+A successful business owner operates a restaurant supply store. He supplies restaurants with equipment as well as cooking materials and delivers these on a schedule suitable to the restaurant’s operations. To expand his clientele, he needs to derive a list of the cities which contain the largest number of restaurants within the county in which he resides. 
